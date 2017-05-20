@@ -1,0 +1,8 @@
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\bin\Debug\WinformException.exe.config
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\bin\Debug\WinformException.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\bin\Debug\WinformException.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Debug\WinformException.FrmBugReport.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Debug\WinformException.Properties.Resources.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Debug\WinformException.csproj.GenerateResource.Cache
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Debug\WinformException.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Debug\WinformException.pdb

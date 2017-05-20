@@ -1,0 +1,9 @@
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\bin\Release\WinformException.exe.config
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\bin\Release\WinformException.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\bin\Release\WinformException.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Release\WinformException.FrmBugReport.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Release\WinformException.Properties.Resources.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Release\WinformException.csproj.GenerateResource.Cache
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Release\WinformException.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Release\WinformException.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\WinformException\obj\Release\WinformException.csprojResolveAssemblyReference.cache

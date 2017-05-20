@@ -1,0 +1,53 @@
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\bin\Debug\logcurrent.exe.config
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\bin\Debug\logcurrent.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\bin\Debug\logcurrent.pdb
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.csprojResolveAssemblyReference.cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.Form1.resources
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.Properties.Resources.resources
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.csproj.GenerateResource.Cache
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.exe
+c:\users\摇了摇头oo\documents\visual studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\logcurrent.exe.config
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\logcurrent.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\logcurrent.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.Form1.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.Properties.Resources.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.csproj.GenerateResource.Cache
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\DaemonLib.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\Download.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\DaemonLib.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\bin\Debug\Download.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent\logcurrent\obj\Debug\logcurrent.csprojResolveAssemblyReference.cache
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\DaemonLib.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\Download.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\DaemonLib.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\Download.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\obj\Debug\logcurrent.Form1.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\obj\Debug\logcurrent.Properties.Resources.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\obj\Debug\logcurrent.csproj.GenerateResource.Cache
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\obj\Debug\logcurrent.csprojResolveAssemblyReference.cache
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\GameController.exe.config
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\GameController.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\bin\Debug\GameController.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\obj\Debug\GameController.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (2)\logcurrent\obj\Debug\GameController.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\GameController.exe.config
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\obj\Debug\GameController.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\obj\Debug\GameController.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\GameController.exe
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\GameController.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\DaemonLib.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\Download.dll
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\DaemonLib.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\bin\Debug\Download.pdb
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\obj\Debug\logcurrent.Form1.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\obj\Debug\logcurrent.Properties.Resources.resources
+C:\Users\摇了摇头oO\Desktop\Visual Studio 2015\Projects\logcurrent - 副本 (3)\logcurrent\obj\Debug\logcurrent.csproj.GenerateResource.Cache
