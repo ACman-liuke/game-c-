@@ -27,11 +27,12 @@ namespace GmMessageApi
         private static string logfile = path + @"\GameController\gamerun.txt";
 
         public delegate void KeyValueDelegate(string key, string value);
-        private KeyValueDelegate RankValue;
+        private static KeyValueDelegate RankValue;
         public KeyValueDelegate SetRankMethod
         {
             set {
                 RankValue = value;
+                WriteDebug("--set--rank--method---success");
             }
         }
 
